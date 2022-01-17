@@ -1,2 +1,2 @@
-# practice
- Exercise 01
+# README
+ This is my first repository!
